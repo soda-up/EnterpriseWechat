@@ -1,5 +1,5 @@
 {
-    "name": "soda/enterprise-wechat",
+    "name": "sodabinbin/enterprise-wechat",
     "description": "微信企业SDK",
     "type": "library",
     "require": {
