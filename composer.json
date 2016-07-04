@@ -1,0 +1,28 @@
+{
+    "name": "soda/enterprise-wechat",
+    "description": "微信企业SDK",
+    "type": "library",
+    "require": {
+        "php": ">=5.5",
+        "guzzlehttp/guzzle": "~6.1"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Xie Binbin",
+            "email": "xiebinbin92@qq.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "EnterpriseWechat\\": "src/"
+        }
+    },
+    "minimum-stability": "stable",
+    "repositories": {
+        "packagist": {
+            "type": "composer",
+            "url": "https://packagist.phpcomposer.com"
+        }
+    }
+}
